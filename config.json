@@ -1,0 +1,11 @@
+{
+  "cms": {
+     "folder": "cms/data",
+     "filename": "{type}-{id}.json",
+     "datasources": {
+       "masterdata": [ 
+         { "content": "main-id"  }
+        ]
+     }
+   }
+}
